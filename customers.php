@@ -16,6 +16,8 @@ require("includes/common.php");
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!--Font Awesome-->
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+        <!-- Bootstrap Social Icons -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.min.css" type="text/css" rel="stylesheet">
         <!-- Custom CSS -->
         <link href="css/styles.css" rel="stylesheet">
 </head>
